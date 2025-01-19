@@ -6,5 +6,4 @@ Controles:
 
 Tecla Espacio -> Activa el jetpack
 
-Juego hecho siguiendo el tutorial:
-https://github.com/ourcade/infinite-runner-template-phaser3
+
